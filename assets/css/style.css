@@ -1269,7 +1269,18 @@ section {
   font-weight: 400;
   font-size: 13px;
 }
-
+.bi-geo-alt::before {
+  color: #4EBF6A;
+  content: "\f3e8";
+}
+.bi-envelope::before {
+  color: #4EBF6A;
+  content: "\f32f";
+}
+.bi-phone::before {
+  color: #4EBF6A;
+  content: "\f4e7";
+}
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
@@ -1333,7 +1344,7 @@ a.nav-link.scrollto {
 }
 
 .contact .php-email-form button[type=button] {
-  background: #3498db;
+  background: #4EBF6A;
   border: 0;
   padding: 10px 24px;
   color: #fff;
