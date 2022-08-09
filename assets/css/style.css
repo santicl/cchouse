@@ -6,10 +6,135 @@ body {
   color: #444444;
 }
 
+.name-logo {
+  font-family: sans-serif;
+  color: rgb(109, 141, 121);
+}
+
+.bi-facebook::before {
+  color: rgb(109, 141, 121);
+  content: "\f344";
+}
+
+.bi-instagram::before {
+  content: "\f437";
+  color: rgb(109, 141, 121);
+}
+
+#hero h1 span {
+  border-bottom: 4px solid rgb(109, 141, 121);
+}
+
 a {
-  color: #3498db;
+  color: rgb(109, 141, 121);
   text-decoration: none;
 }
+
+#hero .btn-get-started {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: 2px;
+  display: inline-block;
+  padding: 12px 28px;
+  border-radius: 4px;
+  transition: ease-in-out 0.3s;
+  color: #fff;
+  background: rgb(109, 141, 121);
+  text-transform: uppercase;
+}
+
+.bx-check-double:before {
+  color: rgb(109, 141, 121);
+  content: "\ea47";
+}
+
+.bi-door-open::before {
+  color: rgb(109, 141, 121);
+  content: "\f308";
+}
+
+.bi-star::before {
+  color: rgb(109, 141, 121);
+  content: "\f588";
+}
+
+.bi-camera-video::before {
+  color: rgb(109, 141, 121);
+  content: "\f21f";
+}
+
+.counts .count-box i {
+  position: absolute;
+  top: -25px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 20px;
+  background: rgb(109, 141, 121);
+  padding: 12px;
+  color: #fff;
+  border-radius: 50px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+}
+
+.portfolio {
+  background: url('../img/section-insta.jpg');
+}
+.footer {
+  background: url('../img/section-insta.jpg');
+}
+
+.section-title h2::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 3px;
+  background: rgb(109, 141, 121);
+  bottom: 0;
+  left: calc(50% - 20px);
+}
+
+.bi-car-front::before {
+  color: rgb(109, 141, 121);
+  content: "\f7e1";
+}
+
+.bi-router::before {
+  color: rgb(109, 141, 121);
+  content: "\f6ec";
+}
+
+.bi-bicycle::before {
+  color: rgb(109, 141, 121);
+  content: "\f18d";
+}
+
+.bi-p-square::before {
+  color: rgb(109, 141, 121);
+  content: "\f807";
+}
+
+.bi-cloud-sun::before {
+  color: rgb(109, 141, 121);
+  content: "\f2be";
+}
+
+.bi-egg-fried::before {
+  color: rgb(109, 141, 121);
+  content: "\f312";
+}
+
+.portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
+  background: rgb(109, 141, 121);
+  color: #fff;
+}
+
+/*fin linea de colores*/
 
 a:hover {
   color: #5faee3;
@@ -348,7 +473,7 @@ h6 {
 #hero {
   width: 100%;
   height: 60vh;
-  background: url("../img/hero-bg.jpg") center center;
+  background: url("../img/home-h.jpg") center center;
   background-size: cover;
   position: relative;
   margin-top: 70px;
@@ -534,6 +659,7 @@ section {
 --------------------------------------------------------------*/
 .about {
   padding: 10px 0;
+  background: url('../img/section-insta.jpg');
 }
 
 .about h3 {
@@ -624,7 +750,7 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  background: white;
+  background: url('../img/section-insta.jpg');
   padding: 30px 0 40px 0;
 }
 
@@ -633,7 +759,7 @@ section {
   width: 100%;
   position: relative;
   text-align: center;
-  background: #fff;
+  background: none;
 }
 
 .counts .count-box i {
@@ -1180,6 +1306,10 @@ section {
   height: 44px;
 }
 
+a.nav-link.scrollto {
+  display: block;
+}
+
 .contact .php-email-form textarea {
   padding: 10px 12px;
 }
@@ -1270,12 +1400,10 @@ section {
 #footer {
   color: #444444;
   font-size: 14px;
-  background: #f7fbfe;
 }
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #fff;
 }
 
 #footer .footer-top .footer-contact {
