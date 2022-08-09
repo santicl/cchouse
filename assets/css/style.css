@@ -29,6 +29,21 @@ a {
   color: #4EBF6A;
   text-decoration: none;
 }
+.bi-house {
+  color: #4EBF6A;
+}
+.bi-person-lines-fill {
+  color: #4EBF6A;
+}
+.bi-building {
+  color: #4EBF6A;
+}
+.bi-kanban {
+  color: #4EBF6A;
+}
+.bi-chat-left-text {
+  color: #4EBF6A;
+}
 
 #hero .btn-get-started {
   font-family: "Poppins", sans-serif;
@@ -166,7 +181,9 @@ h6 {
   border-radius: 4px;
   transition: all 0.4s;
 }
-
+.app- {
+  color: #4EBF6A;
+}
 .back-to-top i {
   font-size: 28px;
   color: #fff;
@@ -1308,6 +1325,7 @@ section {
 
 a.nav-link.scrollto {
   display: block;
+  color: #4EBF6A;
 }
 
 .contact .php-email-form textarea {
