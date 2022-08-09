@@ -1539,7 +1539,7 @@ a.nav-link.scrollto {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background: #3498db;
+  background: #4EBF6A;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
@@ -1559,7 +1559,7 @@ a.nav-link.scrollto {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #3498db;
+  background: #4EBF6A;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1572,7 +1572,11 @@ a.nav-link.scrollto {
 }
 
 #footer .social-links a:hover {
-  background: #5faee3;
+  background: #4EBF6A;
   color: #fff;
   text-decoration: none;
+}
+.bx-chevron-right:before {
+  color: #4EBF6A;
+  content: "\ea50";
 }
