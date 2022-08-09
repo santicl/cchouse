@@ -8,25 +8,25 @@ body {
 
 .name-logo {
   font-family: sans-serif;
-  color: rgb(109, 141, 121);
+  color: #4EBF6A;
 }
 
 .bi-facebook::before {
-  color: rgb(109, 141, 121);
+  color: #4EBF6A;
   content: "\f344";
 }
 
 .bi-instagram::before {
   content: "\f437";
-  color: rgb(109, 141, 121);
+  color: #4EBF6A;
 }
 
 #hero h1 span {
-  border-bottom: 4px solid rgb(109, 141, 121);
+  border-bottom: 4px solid #4EBF6A;
 }
 
 a {
-  color: rgb(109, 141, 121);
+  color: #4EBF6A;
   text-decoration: none;
 }
 
@@ -40,27 +40,27 @@ a {
   border-radius: 4px;
   transition: ease-in-out 0.3s;
   color: #fff;
-  background: rgb(109, 141, 121);
+  background: #4EBF6A;
   text-transform: uppercase;
 }
 
 .bx-check-double:before {
-  color: rgb(109, 141, 121);
+  color: #4EBF6A;
   content: "\ea47";
 }
 
 .bi-door-open::before {
-  color: rgb(109, 141, 121);
+  color: #4EBF6A;
   content: "\f308";
 }
 
 .bi-star::before {
-  color: rgb(109, 141, 121);
+  color: #4EBF6A;
   content: "\f588";
 }
 
 .bi-camera-video::before {
-  color: rgb(109, 141, 121);
+  color: #4EBF6A;
   content: "\f21f";
 }
 
@@ -70,7 +70,7 @@ a {
   left: 50%;
   transform: translateX(-50%);
   font-size: 20px;
-  background: rgb(109, 141, 121);
+  background: #4EBF6A;
   padding: 12px;
   color: #fff;
   border-radius: 50px;
@@ -94,7 +94,7 @@ a {
   display: block;
   width: 40px;
   height: 3px;
-  background: rgb(109, 141, 121);
+  background: #4EBF6A;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -130,7 +130,7 @@ a {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: rgb(109, 141, 121);
+  background: #4EBF6A;
   color: #fff;
 }
 
@@ -503,7 +503,7 @@ h6 {
 }
 
 #hero h1 span {
-  border-bottom: 4px solid #3498db;
+  border-bottom: 4px solid #4EBF6A;
 }
 
 #hero h2 {
@@ -522,12 +522,12 @@ h6 {
   border-radius: 4px;
   transition: ease-in-out 0.3s;
   color: #fff;
-  background: #3498db;
+  background: #4EBF6A
   text-transform: uppercase;
 }
 
 #hero .btn-get-started:hover {
-  background: #4ea5e0;
+  background: #55b16c;
 }
 
 @media (max-width: 992px) {
@@ -768,7 +768,7 @@ section {
   left: 50%;
   transform: translateX(-50%);
   font-size: 20px;
-  background: #3498db;
+  background: #4EBF6A;
   padding: 12px;
   color: #fff;
   border-radius: 50px;
@@ -867,7 +867,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: #3498db;
+  background: #4EBF6A;
   color: #fff;
 }
 
