@@ -130,29 +130,29 @@ a {
 }
 
 .bi-p-square::before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\f807";
 }
 
 .bi-cloud-sun::before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\f2be";
 }
 
 .bi-egg-fried::before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\f312";
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: #4EBF6A;
+  background: rgb(109, 141, 121);
   color: #fff;
 }
 
 /*fin linea de colores*/
 
 a:hover {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   text-decoration: none;
 }
 
@@ -607,7 +607,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #4EBF6A;
+  background: rgb(109, 141, 121);
   bottom: 0;
   left: calc(50% - 20px);
 }
