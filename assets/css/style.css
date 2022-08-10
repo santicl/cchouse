@@ -8,41 +8,41 @@ body {
 
 .name-logo {
   font-family: sans-serif;
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
 }
 
 .bi-facebook::before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\f344";
 }
 
 .bi-instagram::before {
   content: "\f437";
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
 }
 
 #hero h1 span {
-  border-bottom: 4px solid #4EBF6A;
+  border-bottom: 4px solid rgb(109, 141, 121);
 }
 
 a {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   text-decoration: none;
 }
 .bi-house {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
 }
 .bi-person-lines-fill {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
 }
 .bi-building {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
 }
 .bi-kanban {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
 }
 .bi-chat-left-text {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
 }
 
 #hero .btn-get-started {
@@ -55,27 +55,27 @@ a {
   border-radius: 4px;
   transition: ease-in-out 0.3s;
   color: #fff;
-  background: #4EBF6A;
+  background: rgb(109, 141, 121);
   text-transform: uppercase;
 }
 
 .bx-check-double:before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\ea47";
 }
 
 .bi-door-open::before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\f308";
 }
 
 .bi-star::before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\f588";
 }
 
 .bi-camera-video::before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\f21f";
 }
 
@@ -85,7 +85,7 @@ a {
   left: 50%;
   transform: translateX(-50%);
   font-size: 20px;
-  background: #4EBF6A;
+  background: rgb(109, 141, 121);
   padding: 12px;
   color: #fff;
   border-radius: 50px;
@@ -109,23 +109,23 @@ a {
   display: block;
   width: 40px;
   height: 3px;
-  background: #4EBF6A;
+  background: rgb(109, 141, 121);
   bottom: 0;
   left: calc(50% - 20px);
 }
 
 .bi-car-front::before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\f7e1";
 }
 
 .bi-router::before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\f6ec";
 }
 
 .bi-bicycle::before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\f18d";
 }
 
