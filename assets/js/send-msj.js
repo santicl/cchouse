@@ -1,3 +1,7 @@
+/*
+Author: SantyDev
+*/
+
 const sendMsj = (e) => {
     e.preventDefault();
     let name = document.getElementById("name").value;

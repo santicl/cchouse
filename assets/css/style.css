@@ -7,42 +7,43 @@ body {
 }
 
 .name-logo {
-  font-family: sans-serif;
+  font-family: ui-monospace;
   color: #D1A974;
+  font-size: 22px;
 }
 
 .bi-facebook::before {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
   content: "\f344";
 }
 
 .bi-instagram::before {
   content: "\f437";
-  color: rgb(109, 141, 121);
+  color: #57aae1;
 }
 
 #hero h1 span {
-  border-bottom: 4px solid rgb(109, 141, 121);
+  border-bottom: 4px solid #57aae1;
 }
 
 a {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
   text-decoration: none;
 }
 .bi-house {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
 }
 .bi-person-lines-fill {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
 }
 .bi-building {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
 }
 .bi-kanban {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
 }
 .bi-chat-left-text {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
 }
 
 #hero .btn-get-started {
@@ -55,27 +56,27 @@ a {
   border-radius: 4px;
   transition: ease-in-out 0.3s;
   color: #fff;
-  background: rgb(109, 141, 121);
+  background: #57aae1;
   text-transform: uppercase;
 }
 
 .bx-check-double:before {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
   content: "\ea47";
 }
 
 .bi-door-open::before {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
   content: "\f308";
 }
 
 .bi-star::before {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
   content: "\f588";
 }
 
 .bi-camera-video::before {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
   content: "\f21f";
 }
 
@@ -85,7 +86,7 @@ a {
   left: 50%;
   transform: translateX(-50%);
   font-size: 20px;
-  background: rgb(109, 141, 121);
+  background: #57aae1;
   padding: 12px;
   color: #fff;
   border-radius: 50px;
@@ -109,50 +110,50 @@ a {
   display: block;
   width: 40px;
   height: 3px;
-  background: rgb(109, 141, 121);
+  background: #57aae1;
   bottom: 0;
   left: calc(50% - 20px);
 }
 
 .bi-car-front::before {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
   content: "\f7e1";
 }
 
 .bi-router::before {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
   content: "\f6ec";
 }
 
 .bi-bicycle::before {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
   content: "\f18d";
 }
 
 .bi-p-square::before {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
   content: "\f807";
 }
 
 .bi-cloud-sun::before {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
   content: "\f2be";
 }
 
 .bi-egg-fried::before {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
   content: "\f312";
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: rgb(109, 141, 121);
+  background: #57aae1;
   color: #fff;
 }
 
 /*fin linea de colores*/
 
 a:hover {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
   text-decoration: none;
 }
 
@@ -175,14 +176,14 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: rgb(109, 141, 121);
+  background: #57aae1;
   width: 40px;
   height: 40px;
   border-radius: 4px;
   transition: all 0.4s;
 }
 .app- {
-  color: rgb(109, 141, 121);
+  color: #57aae1;
 }
 .back-to-top i {
   font-size: 28px;
@@ -239,7 +240,7 @@ h6 {
 }
 
 .header-social-links a {
-  color: #9ba6af;
+  color: #3498db;
   padding-left: 8px;
   display: inline-block;
   line-height: 0px;
@@ -321,7 +322,7 @@ h6 {
   opacity: 0;
   visibility: hidden;
   background: #fff;
-  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+  box-shadow: 0px 0px 30px #57aae1;
   transition: 0.3s;
 }
 
@@ -345,7 +346,6 @@ h6 {
 .navbar .dropdown ul li:hover>a {
   color: #3498db;
 }
-
 .navbar .dropdown:hover>ul {
   opacity: 1;
   top: 100%;
@@ -379,7 +379,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #384046;
+  color: #3498db;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -607,7 +607,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: rgb(109, 141, 121);
+  background: #3498db;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -785,7 +785,7 @@ section {
   left: 50%;
   transform: translateX(-50%);
   font-size: 20px;
-  background: rgb(109, 141, 121);
+  background: #3498db;
   padding: 12px;
   color: #fff;
   border-radius: 50px;
@@ -877,14 +877,14 @@ section {
   color: #444444;
   border-radius: 4px;
   text-transform: uppercase;
-  background: #fff;
+  background: #e1ebf1;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: rgb(109, 141, 121);
+  background: #3498db;
   color: #fff;
 }
 
@@ -1089,7 +1089,7 @@ section {
   margin: 30px 15px;
   text-align: center;
   min-height: 350px;
-  box-shadow: 0px 2px 12px rgb(109, 141, 121);
+  box-shadow: 0px 2px 12px rgb(194, 190, 190);
   background: #fff;
 }
 
@@ -1147,11 +1147,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid rgb(109, 141, 121);
+  border: 1px solid #3498db;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: rgb(109, 141, 121);
+  background-color: #3498db;
 }
 
 /*--------------------------------------------------------------
@@ -1270,15 +1270,15 @@ section {
   font-size: 13px;
 }
 .bi-geo-alt::before {
-  color: rgb(109, 141, 121);
+  color: #3498db;
   content: "\f3e8";
 }
 .bi-envelope::before {
-  color: rgb(109, 141, 121);
+  color: #3498db;
   content: "\f32f";
 }
 .bi-phone::before {
-  color: rgb(109, 141, 121);
+  color: #3498db;
   content: "\f4e7";
 }
 .contact .php-email-form .error-message {
@@ -1344,7 +1344,7 @@ a.nav-link.scrollto {
 }
 
 .contact .php-email-form button[type=button] {
-  background: rgb(109, 141, 121);
+  background: #3498db;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1353,7 +1353,7 @@ a.nav-link.scrollto {
 }
 
 .contact .php-email-form button[type=button]:hover {
-  background: rgb(93, 121, 104);
+  background: #93c4e4;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1539,11 +1539,11 @@ a.nav-link.scrollto {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background: rgb(109, 141, 121);
+  background: #3498db;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
-  box-shadow: 0px 2px 15px rgb(109, 141, 121);
+  box-shadow: 0px 2px 15px #3498db;
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
@@ -1559,7 +1559,7 @@ a.nav-link.scrollto {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: rgb(109, 141, 121);
+  background: #3498db;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1572,11 +1572,11 @@ a.nav-link.scrollto {
 }
 
 #footer .social-links a:hover {
-  background: rgb(109, 141, 121);
+  background: #3498db;
   color: #fff;
   text-decoration: none;
 }
 .bx-chevron-right:before {
-  color: rgb(109, 141, 121);
+  color: #3498db;
   content: "\ea50";
 }

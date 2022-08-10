@@ -1,8 +1,6 @@
 /**
-* Template Name: Lumia - v4.8.1
-* Template URL: https://bootstrapmade.com/lumia-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: SantyDev- v1.0.0
+* Author: SantyDev
 */
 (function() {
   "use strict";
