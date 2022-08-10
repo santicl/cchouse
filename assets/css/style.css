@@ -1336,7 +1336,7 @@ section {
 
 a.nav-link.scrollto {
   display: block;
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
 }
 
 .contact .php-email-form textarea {
