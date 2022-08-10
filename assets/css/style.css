@@ -175,14 +175,14 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #4EBF6A;
+  background: rgb(109, 141, 121);
   width: 40px;
   height: 40px;
   border-radius: 4px;
   transition: all 0.4s;
 }
 .app- {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
 }
 .back-to-top i {
   font-size: 28px;
@@ -520,7 +520,7 @@ h6 {
 }
 
 #hero h1 span {
-  border-bottom: 4px solid #4EBF6A;
+  border-bottom: 4px solid rgb(109, 141, 121);
 }
 
 #hero h2 {
@@ -785,7 +785,7 @@ section {
   left: 50%;
   transform: translateX(-50%);
   font-size: 20px;
-  background: #4EBF6A;
+  background: rgb(109, 141, 121);
   padding: 12px;
   color: #fff;
   border-radius: 50px;
@@ -884,7 +884,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: #4EBF6A;
+  background: rgb(109, 141, 121);
   color: #fff;
 }
 
@@ -1089,7 +1089,7 @@ section {
   margin: 30px 15px;
   text-align: center;
   min-height: 350px;
-  box-shadow: 0px 2px 12px #4EBF6A;
+  box-shadow: 0px 2px 12px rgb(109, 141, 121);
   background: #fff;
 }
 
@@ -1147,11 +1147,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #4EBF6A;
+  border: 1px solid rgb(109, 141, 121);
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #4EBF6A;
+  background-color: rgb(109, 141, 121);
 }
 
 /*--------------------------------------------------------------
@@ -1270,15 +1270,15 @@ section {
   font-size: 13px;
 }
 .bi-geo-alt::before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\f3e8";
 }
 .bi-envelope::before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\f32f";
 }
 .bi-phone::before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\f4e7";
 }
 .contact .php-email-form .error-message {
@@ -1344,7 +1344,7 @@ a.nav-link.scrollto {
 }
 
 .contact .php-email-form button[type=button] {
-  background: #4EBF6A;
+  background: rgb(109, 141, 121);
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1353,7 +1353,7 @@ a.nav-link.scrollto {
 }
 
 .contact .php-email-form button[type=button]:hover {
-  background: #5faee3;
+  background: rgb(93, 121, 104);
 }
 
 @-webkit-keyframes animate-loading {
@@ -1539,11 +1539,11 @@ a.nav-link.scrollto {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background: #4EBF6A;
+  background: rgb(109, 141, 121);
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 15px rgb(109, 141, 121);
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
@@ -1559,7 +1559,7 @@ a.nav-link.scrollto {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #4EBF6A;
+  background: rgb(109, 141, 121);
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1572,11 +1572,11 @@ a.nav-link.scrollto {
 }
 
 #footer .social-links a:hover {
-  background: #4EBF6A;
+  background: rgb(109, 141, 121);
   color: #fff;
   text-decoration: none;
 }
 .bx-chevron-right:before {
-  color: #4EBF6A;
+  color: rgb(109, 141, 121);
   content: "\ea50";
 }
