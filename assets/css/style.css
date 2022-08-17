@@ -364,7 +364,12 @@ h6 {
   left: 100%;
   visibility: visible;
 }
-
+.container-list {
+  margin-left: 50px;
+}
+.section-bg {
+  margin-top: 60px;
+}
 @media (max-width: 1366px) {
   .navbar .dropdown .dropdown ul {
     left: -90%;
