@@ -1432,12 +1432,19 @@ a.nav-link.scrollto {
 a.nav-link.scrollto {
   display: flex;
   justify-content: center;
+  font-size: 18px;
 }
 
 i.bi.bi-house, i.bi.bi-person-lines-fill, i.bi.bi-building, i.bi.bi-kanban, i.bi.bi-chat-left-text {
   padding: 5px;
+  font-size: 18px;
 }
-
+.navbar-mobile ul {
+  padding: 45px 0;
+}
+.navbar li {
+  padding: 4%;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
