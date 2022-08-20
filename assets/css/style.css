@@ -1429,6 +1429,15 @@ a.nav-link.scrollto {
   }
 }
 
+a.nav-link.scrollto {
+  display: flex;
+  justify-content: center;
+}
+
+i.bi.bi-house, i.bi.bi-person-lines-fill, i.bi.bi-building, i.bi.bi-kanban, i.bi.bi-chat-left-text {
+  padding: 5px;
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
