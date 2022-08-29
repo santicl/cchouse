@@ -1,5 +1,5 @@
 /**
-* Template Name: SantyDev- v1.0.0
+* Template Name: Turism-page By santicl v1.0.0
 * Author: SantyDev
 */
 (function() {
